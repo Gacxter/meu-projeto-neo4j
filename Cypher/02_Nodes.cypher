@@ -1,0 +1,46 @@
+-- ============ CREATE NODES ============
+-- ============ CRIAR NÓS ============
+
+CREATE (n:user {id:'n0',caption:'João',Name:'João da Silva',Email:'joao@email.com',Adress:'Rua A, 42, Centro, São Paulo'});
+CREATE (n:movie {id:'n1',caption:'The Day After Tomorrow',Title:'The Day After Tomorrow',Director:'Roland Emmerich',Released:'2004',Genre:'Science Fiction Disaster'});
+CREATE (n:serie {id:'n2',caption:'F.R.I.E.N.D.S.',Title:'F.R.I.E.N.D.S.',Director:'James Burrows & Others',Released:'F.R.I.E.N.D.S.',Genre:'Comedy'});
+CREATE (n:Genre {id:'n3',caption:'Comedy'});
+CREATE (n:Genre {id:'n4',caption:'Science Fiction Disaster'});
+CREATE (n:actor {id:'n5',caption:'Jake Gyllenhaal'});
+CREATE (n:Director {id:'n6',caption:'Roland Emmerich'});
+CREATE (n:user {id:'n8',caption:'Gabriel',Name:'Gabriel Smith',Email:'Gabri.S@email.com',Adress:'6th Avenue, 2015, Miami, Florida'});
+CREATE (n:movie {id:'n9',caption:'The Lord of The Rings: The Fellowship of the Ring',Title:'The Lord of The Rings: The Fellowship of the Ring',Director:'Peter Jackson',Released:'2001',Genre:'High Fantasy'});
+CREATE (n:Genre {id:'n10',caption:'High Fantasy'});
+CREATE (n:actor {id:'n11',caption:'Elijah Wood'});
+CREATE (n:actor {id:'n12',caption:'Ian McKellen'});
+CREATE (n:Director {id:'n13',caption:'Peter Jackson'});
+CREATE (n:movie {id:'n14',caption:'The Lord of The Rings: The Two Towers',Title:'The Lord of The Rings: The Two Towers',Director:'Peter Jackson',Released:'2002',Genre:'High Fantasy'});
+CREATE (n:movie {id:'n15',caption:'The Lord of The Rings: The Return of the King',Title:'The Lord of The Rings: The Return of the King',Director:'Peter Jackson',Released:'2003',Genre:'High Fantasy'});
+CREATE (n:Director {id:'n16',caption:'James Burrows'});
+CREATE (n:user {id:'n17',caption:'Anthony',Name:'Anthony Johnson',Email:'aj@email.com',Adress:'6th Avenue, 4003, Miami, Florida'});
+CREATE (n:user {id:'n18',caption:'Nautilus',Name:'Nautilus LOL',Email:'Nautileague@email.com',Adress:'12333 W Olympic Blvd, Los Angeles, CA'});
+CREATE (n:movie {id:'n19',caption:'Independence Day',Title:'Independence Day',Director:'Roland Emmerich',Released:'1996',Genre:'Science Fiction Disaster'});
+CREATE (n:actor {id:'n20',caption:'Bill Pullman'});
+CREATE (n:actor {id:'n21',caption:'Will Smith'});
+CREATE (n:movie {id:'n22',caption:'Men in Black',Title:'Men in Black',Director:'Barry Sonnenfeld',Released:'1997',Genre:'Science Fiction'});
+CREATE (n {id:'n23',caption:'Jennifer Aniston'});
+CREATE (n {id:'n24',caption:'Tommy Lee Jones'});
+CREATE (n:user {id:'n25',caption:'Joyce',Name:'Joyce Moreno',Email:'annimor@email.com',Adress:'348  ORIENT WAY LYNDHURST NJ 07071-2512 USA'});
+CREATE (n:Genre {id:'n26',caption:'Science Fiction'});
+CREATE (n:movie {id:'n27',caption:'Marley & Me',Title:'Marley & Me',Director:'David Frankel',Released:'2008',Genre:'Comedy/Drama'});
+CREATE (n:Genre {id:'n28',caption:'Drama'});
+CREATE (n:user {id:'n29',caption:'Emmily',Name:'Emmily Baulmann',Email:'mlee@email.com',Adress:'Rua Z, 458, Flamengo, Rio de Janeiro'});
+CREATE (n {id:'n30',caption:'Owen Wilson'});
+CREATE (n:user {id:'n31',caption:'Emmanuel',Name:'Emmanuel Rodríguez',Email:'er01@email.com',Adress:'JUAREZ NO. 1105 LOC. 207, COLONIAL, 42060'});
+CREATE (n:movie {id:'n32',caption:'Sin City',Title:'Sin City',Director:'Robert Rodriguez/Frank Miller/Quentin Tarantino/',Released:'2005',Genre:'Action'});
+CREATE (n:Director {id:'n33',caption:'Quentin Tarantino'});
+CREATE (n:Director {id:'n34',caption:'Frank Miller'});
+CREATE (n:Director {id:'n35',caption:'Robert Rodriguez'});
+CREATE (n:Director {id:'n36',caption:'Barry Sonnenfeld'});
+CREATE (n:Director {id:'n37',caption:'David Frankel'});
+CREATE (n:movie {id:'n38',caption:'The Hateful Eight',Title:'The Hateful Eight',Director:'Quentin Tarantino',Released:'2015',Genre:'Action'});
+CREATE (n:actor {id:'n39',caption:' Bruce Willis'});
+CREATE (n:Genre {id:'n40',caption:'Action'});
+CREATE (n:user {id:'n41',caption:'Amanda',Name:'Amanda Antunes',Email:'amandinha@email.com',Adress:'Avenida Paulista 2501, ap 501, São Paulo, SP'});
+CREATE (n:user {id:'n42',caption:'Luna',Name:'Luna Lover',Email:'ll@email.com',Adress:'Avenida da Saudade, 456,'});
+CREATE (n:user {id:'n43',caption:'Roberto',Name:'Roberto Andrade',Email:'robbiea@email.com',Adress:'Rua 1, Centro, Uberaba-MG, Brasil'});

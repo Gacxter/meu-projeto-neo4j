@@ -1,0 +1,24 @@
+# Neo4j
+data/
+logs/
+*.db
+
+# Sensíveis
+.env
+*.env
+config.json
+secrets.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

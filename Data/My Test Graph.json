@@ -1,0 +1,1453 @@
+{
+  "style": {
+    "font-family": "Nunito Sans",
+    "background-color": "#F2F2F2",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#4C8EDA",
+    "border-width": 0,
+    "border-color": "#000000",
+    "radius": 75,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#ffffff",
+    "caption-font-size": 20,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "bare",
+    "label-color": "#ffffff",
+    "label-background-color": "#848484",
+    "label-border-color": "#848484",
+    "label-border-width": 3,
+    "label-font-size": 20,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "above",
+    "detail-orientation": "parallel",
+    "arrow-width": 3,
+    "arrow-color": "#848484",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#848484",
+    "type-background-color": "#F2F2F2",
+    "type-border-color": "#848484",
+    "type-border-width": 0,
+    "type-font-size": 21,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#848484",
+    "property-font-size": 20,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": -42.789504423802896,
+        "y": 0
+      },
+      "caption": "João",
+      "labels": [
+        "user"
+      ],
+      "properties": {
+        "Name": "João da Silva",
+        "E-mail": "joao@email.com",
+        "Adress": "Rua A, 42, Centro, São Paulo"
+      },
+      "style": {
+        "border-color": "#f44e3b",
+        "node-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 379.8936814334552,
+        "y": 0
+      },
+      "caption": "The Day After Tomorrow",
+      "labels": [
+        "movie"
+      ],
+      "properties": {
+        "Title": "The Day After Tomorrow",
+        "Director": "Roland Emmerich",
+        "Released": "2004",
+        "Genre": "Science Fiction Disaster"
+      },
+      "style": {
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 243.59828611876563,
+        "y": -243.5982861187656
+      },
+      "caption": "F.R.I.E.N.D.S.",
+      "labels": [
+        "serie"
+      ],
+      "properties": {
+        "Title": "F.R.I.E.N.D.S.",
+        "Director": "James Burrows & Others",
+        "Released": "F.R.I.E.N.D.S.",
+        "Genre": "Comedy"
+      },
+      "style": {
+        "border-color": "#0c797d",
+        "node-color": "#0c797d"
+      }
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 177.78472481346512,
+        "y": -645.6442636371343
+      },
+      "caption": "Comedy",
+      "labels": [
+        "Genre"
+      ],
+      "properties": {},
+      "style": {
+        "node-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 379.8936814334552,
+        "y": 320.7606670505896
+      },
+      "caption": "Science Fiction Disaster",
+      "labels": [
+        "Genre"
+      ],
+      "properties": {},
+      "style": {
+        "node-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 591.2352743620843,
+        "y": 211.34159292862904
+      },
+      "caption": "Jake Gyllenhaal",
+      "labels": [
+        "actor"
+      ],
+      "properties": {},
+      "style": {
+        "node-color": "#c45100"
+      }
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 678.7758284466562,
+        "y": -116.43396292971607
+      },
+      "caption": "Roland Emmerich",
+      "labels": [
+        "Director"
+      ],
+      "properties": {},
+      "style": {
+        "node-color": "#fb9e00"
+      }
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 678.7758284466562,
+        "y": -298.88214701320095
+      },
+      "caption": "Gabriel",
+      "style": {
+        "border-color": "#f44e3b",
+        "node-color": "#f44e3b"
+      },
+      "labels": [
+        "user"
+      ],
+      "properties": {
+        "Name": "Gabriel Smith",
+        "E-mail": "Gabri.S@email.com",
+        "Adress": "6th Avenue, 2015, Miami, Florida"
+      }
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 1154.6319438716769,
+        "y": -313.12979055008054
+      },
+      "caption": "The Lord of The Rings: The Fellowship of the Ring",
+      "style": {},
+      "labels": [
+        "movie"
+      ],
+      "properties": {
+        "Title": "The Lord of The Rings: The Fellowship of the Ring",
+        "Director": "Peter Jackson",
+        "Released": "2001",
+        "Genre": "High Fantasy"
+      }
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 1246.0670838566962,
+        "y": -750.3816356539297
+      },
+      "caption": "High Fantasy",
+      "style": {
+        "node-color": "#fda1ff"
+      },
+      "labels": [
+        "Genre"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 968.7417861668227,
+        "y": -69.00916484004858
+      },
+      "caption": "Elijah Wood",
+      "style": {
+        "node-color": "#c45100"
+      },
+      "labels": [
+        "actor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 1308.0513287522983,
+        "y": -47.399621070879675
+      },
+      "caption": "Ian McKellen",
+      "style": {
+        "node-color": "#c45100"
+      },
+      "labels": [
+        "actor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 1601.1415532963413,
+        "y": -326.49876815624594
+      },
+      "caption": "Peter Jackson",
+      "style": {
+        "node-color": "#fb9e00"
+      },
+      "labels": [
+        "Director"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 573.4597007441935,
+        "y": -721.0210064758318
+      },
+      "caption": "The Lord of The Rings: The Two Towers",
+      "style": {},
+      "labels": [
+        "movie"
+      ],
+      "properties": {
+        "Title": "The Lord of The Rings: The Two Towers",
+        "Director": "Peter Jackson",
+        "Released": "2002",
+        "Genre": "High Fantasy"
+      }
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 1214.360257977906,
+        "y": 527.390270923971
+      },
+      "caption": "The Lord of The Rings: The Return of the King",
+      "style": {},
+      "labels": [
+        "movie"
+      ],
+      "properties": {
+        "Title": "The Lord of The Rings: The Return of the King",
+        "Director": "Peter Jackson",
+        "Released": "2003",
+        "Genre": "High Fantasy"
+      }
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": -96.43692488827807,
+        "y": -298.88214701320095
+      },
+      "caption": "James Burrows",
+      "style": {
+        "node-color": "#fb9e00"
+      },
+      "labels": [
+        "Director"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": -201.37898828724823,
+        "y": -721.0210064758318
+      },
+      "caption": "Anthony",
+      "style": {
+        "node-color": "#f44e3b"
+      },
+      "labels": [
+        "user"
+      ],
+      "properties": {
+        "Name": "Anthony Johnson",
+        "E-mail": "aj@email.com",
+        "Adress": "6th Avenue, 4003, Miami, Florida"
+      }
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": -201.37898828724823,
+        "y": 527.390270923971
+      },
+      "caption": "Nautilus",
+      "style": {
+        "node-color": "#f44e3b"
+      },
+      "labels": [
+        "user"
+      ],
+      "properties": {
+        "Name": "Nautilus LOL",
+        "E-mail": "Nautileague@email.com",
+        "Adress": "12333 W Olympic Blvd, Los Angeles, CA"
+      }
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": -848.9020924285485,
+        "y": -243.5982861187656
+      },
+      "caption": "Independence Day",
+      "style": {},
+      "labels": [
+        "movie"
+      ],
+      "properties": {
+        "Title": "Independence Day",
+        "Director": "Roland Emmerich",
+        "Released": "1996",
+        "Genre": "Science Fiction Disaster"
+      }
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": -1071.1707451634513,
+        "y": 51.286388433327886
+      },
+      "caption": "Bill Pullman",
+      "style": {
+        "node-color": "#c45100"
+      },
+      "labels": [
+        "actor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": -848.9020924285485,
+        "y": -612.8682757933707
+      },
+      "caption": "Will Smith",
+      "style": {
+        "node-color": "#c45100"
+      },
+      "labels": [
+        "actor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": -652.6723790801427,
+        "y": -952.7481092674863
+      },
+      "caption": "Men in Black",
+      "style": {},
+      "labels": [
+        "movie"
+      ],
+      "properties": {
+        "Title": "Men in Black",
+        "Director": "Barry Sonnenfeld",
+        "Released": "1997",
+        "Genre": "Science Fiction"
+      }
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 461.75926585889897,
+        "y": -429.16360181188685
+      },
+      "caption": "Jennifer Aniston",
+      "style": {
+        "node-color": "#c45100"
+      },
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": -297.5422141568363,
+        "y": -1005.0211314150276
+      },
+      "caption": "Tommy Lee Jones",
+      "style": {
+        "node-color": "#c45100"
+      },
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": -1033.5370872658514,
+        "y": -932.6654677067963
+      },
+      "caption": "Joyce",
+      "style": {
+        "node-color": "#f44e3b"
+      },
+      "labels": [
+        "user"
+      ],
+      "properties": {
+        "Name": "Joyce Moreno",
+        "E-mail": "annimor@email.com",
+        "Adress": "348  ORIENT WAY LYNDHURST NJ 07071-2512 USA"
+      }
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": -297.5422141568363,
+        "y": -1307.8782741907928
+      },
+      "caption": "Science Fiction",
+      "style": {
+        "node-color": "#fda1ff"
+      },
+      "labels": [
+        "Genre"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n27",
+      "position": {
+        "x": -297.5422141568363,
+        "y": -1636.031192705913
+      },
+      "caption": "Marley & Me",
+      "style": {},
+      "labels": [
+        "movie"
+      ],
+      "properties": {
+        "Title": "Marley & Me",
+        "Director": "David Frankel",
+        "Released": "2008",
+        "Genre": "Comedy/Drama"
+      }
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 93.12792294345502,
+        "y": -1636.031192705913
+      },
+      "caption": "Drama",
+      "style": {
+        "node-color": "#fda1ff"
+      },
+      "labels": [
+        "Genre"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 573.4597007441935,
+        "y": -1838.6117397893395
+      },
+      "caption": "Emmily",
+      "style": {
+        "node-color": "#f44e3b"
+      },
+      "labels": [
+        "user"
+      ],
+      "properties": {
+        "Name": "Emmily Baulmann",
+        "E-mail": "mlee@email.com",
+        "Adress": "Rua Z, 458, Flamengo, Rio de Janeiro"
+      }
+    },
+    {
+      "id": "n30",
+      "position": {
+        "x": 355.3733181230414,
+        "y": -1349.7814803496692
+      },
+      "caption": "Owen Wilson",
+      "style": {
+        "node-color": "#c45100"
+      },
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n31",
+      "position": {
+        "x": 461.75926585889897,
+        "y": -1032.9882896691654
+      },
+      "caption": "Emmanuel",
+      "style": {
+        "node-color": "#f44e3b"
+      },
+      "labels": [
+        "user"
+      ],
+      "properties": {
+        "Name": "Emmanuel Rodríguez",
+        "E-mail": "er01@email.com",
+        "Adress": "JUAREZ NO. 1105 LOC. 207, COLONIAL, 42060"
+      }
+    },
+    {
+      "id": "n32",
+      "position": {
+        "x": 936.8884773732352,
+        "y": -1508.1175011835016
+      },
+      "caption": "Sin City",
+      "style": {},
+      "labels": [
+        "movie"
+      ],
+      "properties": {
+        "Title": "Sin City",
+        "Director": "Robert Rodriguez/Frank Miller/Quentin Tarantino/",
+        "Released": "2005",
+        "Genre": "Action"
+      }
+    },
+    {
+      "id": "n33",
+      "position": {
+        "x": 1170.5831946345077,
+        "y": -1338.60506934881
+      },
+      "caption": "Quentin Tarantino",
+      "style": {
+        "node-color": "#fb9e00"
+      },
+      "labels": [
+        "Director"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n34",
+      "position": {
+        "x": 1170.5831946345077,
+        "y": -1741.812218444774
+      },
+      "caption": "Frank Miller",
+      "style": {
+        "node-color": "#fb9e00"
+      },
+      "labels": [
+        "Director"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n35",
+      "position": {
+        "x": 936.8884773732352,
+        "y": -1838.6117397893395
+      },
+      "caption": "Robert Rodriguez",
+      "style": {
+        "node-color": "#fb9e00"
+      },
+      "labels": [
+        "Director"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n36",
+      "position": {
+        "x": -1007.8025440034492,
+        "y": -1307.8782741907928
+      },
+      "caption": "Barry Sonnenfeld",
+      "style": {
+        "node-color": "#fb9e00"
+      },
+      "labels": [
+        "Director"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n37",
+      "position": {
+        "x": -652.6723790801427,
+        "y": -1688.7824569971738
+      },
+      "caption": "David Frankel",
+      "style": {
+        "node-color": "#fb9e00"
+      },
+      "labels": [
+        "Director"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n38",
+      "position": {
+        "x": 1424.84661165571,
+        "y": -1132.0756059303028
+      },
+      "caption": "The Hateful Eight",
+      "style": {},
+      "labels": [
+        "movie"
+      ],
+      "properties": {
+        "Title": "The Hateful Eight",
+        "Director": "Quentin Tarantino",
+        "Released": "2015",
+        "Genre": "Action"
+      }
+    },
+    {
+      "id": "n39",
+      "position": {
+        "x": 1154.6319438716769,
+        "y": -1005.0211314150276
+      },
+      "caption": " Bruce Willis",
+      "style": {
+        "node-color": "#c45100"
+      },
+      "labels": [
+        "actor"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n40",
+      "position": {
+        "x": 1424.84661165571,
+        "y": -1451.5155876001184
+      },
+      "caption": "Action",
+      "style": {
+        "node-color": "#fda1ff"
+      },
+      "labels": [
+        "Genre"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n41",
+      "position": {
+        "x": 1859.643047127145,
+        "y": -1580.0584632328012
+      },
+      "caption": "Amanda",
+      "style": {
+        "node-color": "#f44e3b"
+      },
+      "labels": [
+        "user"
+      ],
+      "properties": {
+        "Name": "Amanda Antunes",
+        "E-mail": "amandinha@email.com",
+        "Adress": "Avenida Paulista 2501, ap 501, São Paulo, SP"
+      }
+    },
+    {
+      "id": "n42",
+      "position": {
+        "x": 1956.4504089171596,
+        "y": -645.6442636371343
+      },
+      "caption": "Luna",
+      "style": {
+        "node-color": "#f44e3b"
+      },
+      "labels": [
+        "user"
+      ],
+      "properties": {
+        "Name": "Luna Lover",
+        "E-mail": "ll@email.com",
+        "Adress": "Avenida da Saudade, 456,"
+      }
+    },
+    {
+      "id": "n43",
+      "position": {
+        "x": 1752.673138677488,
+        "y": 116.53031297645428
+      },
+      "caption": "Roberto",
+      "style": {
+        "node-color": "#f44e3b"
+      },
+      "labels": [
+        "user"
+      ],
+      "properties": {
+        "Name": "Roberto Andrade",
+        "E-mail": "robbiea@email.com",
+        "Adress": "Rua 1, Centro, Uberaba-MG, Brasil"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n0",
+      "toId": "n1",
+      "type": "WATCHED",
+      "properties": {
+        "rating": "Four Stars"
+      },
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "fromId": "n0",
+      "toId": "n2",
+      "type": "WATCHED",
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n2",
+      "toId": "n3",
+      "type": "IN_GENRE",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "fromId": "n1",
+      "toId": "n4",
+      "type": "IN_GENRE",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n5",
+      "toId": "n1",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "fromId": "n6",
+      "toId": "n1",
+      "type": "DIRECTED",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "type": "WATCHED",
+      "fromId": "n8",
+      "toId": "n1",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n8",
+      "toId": "n9"
+    },
+    {
+      "id": "n8",
+      "type": "IN_GENRE",
+      "style": {},
+      "properties": {},
+      "fromId": "n9",
+      "toId": "n10"
+    },
+    {
+      "id": "n9",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n9"
+    },
+    {
+      "id": "n10",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n12",
+      "toId": "n9"
+    },
+    {
+      "id": "n11",
+      "type": "DIRECTED",
+      "style": {},
+      "properties": {},
+      "fromId": "n13",
+      "toId": "n9"
+    },
+    {
+      "id": "n12",
+      "type": "WATCHED",
+      "fromId": "n8",
+      "toId": "n14",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "IN_GENRE",
+      "fromId": "n14",
+      "toId": "n10",
+      "style": {},
+      "properties": {}
+    },
+    {
+      "id": "n14",
+      "type": "ACTED_IN",
+      "fromId": "n11",
+      "toId": "n14",
+      "style": {},
+      "properties": {}
+    },
+    {
+      "id": "n15",
+      "type": "ACTED_IN",
+      "fromId": "n12",
+      "toId": "n14",
+      "style": {},
+      "properties": {}
+    },
+    {
+      "id": "n16",
+      "type": "DIRECTED",
+      "style": {},
+      "properties": {},
+      "fromId": "n13",
+      "toId": "n14"
+    },
+    {
+      "id": "n17",
+      "type": "WATCHED",
+      "fromId": "n8",
+      "toId": "n15",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      }
+    },
+    {
+      "id": "n18",
+      "type": "IN_GENRE",
+      "fromId": "n15",
+      "toId": "n10",
+      "style": {},
+      "properties": {}
+    },
+    {
+      "id": "n19",
+      "type": "ACTED_IN",
+      "fromId": "n11",
+      "toId": "n15",
+      "style": {},
+      "properties": {}
+    },
+    {
+      "id": "n20",
+      "type": "ACTED_IN",
+      "fromId": "n12",
+      "toId": "n15",
+      "style": {},
+      "properties": {}
+    },
+    {
+      "id": "n21",
+      "type": "DIRECTED",
+      "style": {},
+      "properties": {},
+      "fromId": "n13",
+      "toId": "n15"
+    },
+    {
+      "id": "n22",
+      "type": "DIRECTED",
+      "style": {},
+      "properties": {},
+      "fromId": "n16",
+      "toId": "n2"
+    },
+    {
+      "id": "n23",
+      "type": "WATCHED",
+      "style": {
+        "arrow-color": "#848484"
+      },
+      "properties": {
+        "rating": "Three Stars"
+      },
+      "fromId": "n17",
+      "toId": "n2"
+    },
+    {
+      "id": "n24",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Four Stars"
+      },
+      "fromId": "n17",
+      "toId": "n14"
+    },
+    {
+      "id": "n25",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Two Stars"
+      },
+      "fromId": "n18",
+      "toId": "n1"
+    },
+    {
+      "id": "n26",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n18",
+      "toId": "n15"
+    },
+    {
+      "id": "n27",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n18",
+      "toId": "n9"
+    },
+    {
+      "id": "n28",
+      "type": "DIRECTED",
+      "style": {},
+      "properties": {},
+      "fromId": "n6",
+      "toId": "n19"
+    },
+    {
+      "id": "n29",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Fours Stars"
+      },
+      "fromId": "n17",
+      "toId": "n19"
+    },
+    {
+      "id": "n30",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n18",
+      "toId": "n19"
+    },
+    {
+      "id": "n31",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n20",
+      "toId": "n19"
+    },
+    {
+      "id": "n32",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n21",
+      "toId": "n19"
+    },
+    {
+      "id": "n33",
+      "type": "IN_GENRE",
+      "style": {},
+      "properties": {},
+      "fromId": "n19",
+      "toId": "n4"
+    },
+    {
+      "id": "n34",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n0",
+      "toId": "n19"
+    },
+    {
+      "id": "n35",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n21",
+      "toId": "n22"
+    },
+    {
+      "id": "n36",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n23",
+      "toId": "n2"
+    },
+    {
+      "id": "n37",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n24",
+      "toId": "n22"
+    },
+    {
+      "id": "n38",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n22"
+    },
+    {
+      "id": "n39",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "One Star"
+      },
+      "fromId": "n25",
+      "toId": "n22"
+    },
+    {
+      "id": "n40",
+      "type": "IN_GENRE",
+      "fromId": "n1",
+      "toId": "n26",
+      "style": {},
+      "properties": {}
+    },
+    {
+      "id": "n41",
+      "type": "IN_GENRE",
+      "fromId": "n19",
+      "toId": "n26",
+      "style": {},
+      "properties": {}
+    },
+    {
+      "id": "n42",
+      "type": "IN_GENRE",
+      "style": {},
+      "properties": {},
+      "fromId": "n22",
+      "toId": "n26"
+    },
+    {
+      "id": "n43",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Two Stars"
+      },
+      "fromId": "n25",
+      "toId": "n19"
+    },
+    {
+      "id": "n44",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n25",
+      "toId": "n27"
+    },
+    {
+      "id": "n45",
+      "type": "IN_GENRE",
+      "style": {},
+      "properties": {},
+      "fromId": "n27",
+      "toId": "n3"
+    },
+    {
+      "id": "n46",
+      "type": "IN_GENRE",
+      "style": {},
+      "properties": {},
+      "fromId": "n27",
+      "toId": "n28"
+    },
+    {
+      "id": "n47",
+      "type": "WATCHED",
+      "fromId": "n29",
+      "toId": "n22",
+      "style": {},
+      "properties": {
+        "rating": "Three Stars"
+      }
+    },
+    {
+      "id": "n49",
+      "type": "WATCHED",
+      "fromId": "n29",
+      "toId": "n27",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      }
+    },
+    {
+      "id": "n50",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Four Stars"
+      },
+      "fromId": "n29",
+      "toId": "n14"
+    },
+    {
+      "id": "n51",
+      "type": "WATCHED ",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n29",
+      "toId": "n9"
+    },
+    {
+      "id": "n52",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n23",
+      "toId": "n27"
+    },
+    {
+      "id": "n53",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n30",
+      "toId": "n27"
+    },
+    {
+      "id": "n54",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Three Stars"
+      },
+      "fromId": "n31",
+      "toId": "n27"
+    },
+    {
+      "id": "n55",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n31",
+      "toId": "n2"
+    },
+    {
+      "id": "n56",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n31",
+      "toId": "n32"
+    },
+    {
+      "id": "n57",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n32"
+    },
+    {
+      "id": "n58",
+      "type": "DIRECTED",
+      "style": {},
+      "properties": {},
+      "fromId": "n33",
+      "toId": "n32"
+    },
+    {
+      "id": "n59",
+      "type": "DIRECTED",
+      "fromId": "n34",
+      "toId": "n32",
+      "style": {},
+      "properties": {}
+    },
+    {
+      "id": "n60",
+      "type": "DIRECTED",
+      "fromId": "n35",
+      "toId": "n32",
+      "style": {},
+      "properties": {}
+    },
+    {
+      "id": "n61",
+      "type": "DIRECTED",
+      "style": {},
+      "properties": {},
+      "fromId": "n36",
+      "toId": "n22"
+    },
+    {
+      "id": "n62",
+      "type": "DIRECTED",
+      "style": {},
+      "properties": {},
+      "fromId": "n37",
+      "toId": "n27"
+    },
+    {
+      "id": "n63",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "One Star"
+      },
+      "fromId": "n29",
+      "toId": "n32"
+    },
+    {
+      "id": "n64",
+      "type": "DIRECTED",
+      "style": {},
+      "properties": {},
+      "fromId": "n33",
+      "toId": "n38"
+    },
+    {
+      "id": "n65",
+      "type": "ACTED_IN",
+      "style": {},
+      "properties": {},
+      "fromId": "n39",
+      "toId": "n32"
+    },
+    {
+      "id": "n66",
+      "type": "IN_GENRE",
+      "style": {},
+      "properties": {},
+      "fromId": "n32",
+      "toId": "n40"
+    },
+    {
+      "id": "n67",
+      "type": "IN_GENRE",
+      "style": {},
+      "properties": {},
+      "fromId": "n38",
+      "toId": "n40"
+    },
+    {
+      "id": "n68",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Two Stars"
+      },
+      "fromId": "n41",
+      "toId": "n32"
+    },
+    {
+      "id": "n69",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n41",
+      "toId": "n38"
+    },
+    {
+      "id": "n70",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Four Stars"
+      },
+      "fromId": "n41",
+      "toId": "n9"
+    },
+    {
+      "id": "n71",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Four Stars"
+      },
+      "fromId": "n41",
+      "toId": "n14"
+    },
+    {
+      "id": "n72",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n41",
+      "toId": "n15"
+    },
+    {
+      "id": "n73",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n42",
+      "toId": "n38"
+    },
+    {
+      "id": "n74",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Two Stars"
+      },
+      "fromId": "n42",
+      "toId": "n22"
+    },
+    {
+      "id": "n75",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Four Stars"
+      },
+      "fromId": "n43",
+      "toId": "n1"
+    },
+    {
+      "id": "n76",
+      "type": "WATCHED",
+      "style": {},
+      "properties": {
+        "rating": "Five Stars"
+      },
+      "fromId": "n43",
+      "toId": "n38"
+    }
+  ]
+}
